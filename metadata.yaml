@@ -1,15 +1,21 @@
 _repo: Selected-Letters-of-Saint-Jane-Frances-de-Chantal_50592
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Visitation, The Sisters of the
     gutenberg_agent_id: '45990'
     url: http://www.gutenberg.org/2009/agents/45990
+covers:
+- cover_type: archival
+  image_path: 50592-h/images/cover.png
 creator:
   author:
     agent_name: Chantal, Jane Frances de
     gutenberg_agent_id: '45989'
     url: http://www.gutenberg.org/2009/agents/45989
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50592#Selected-Letters-of-Saint-Jane-Frances-de-Chantal
 gutenberg_issued: '2015-12-02'
 gutenberg_type: Text
 identifiers:
